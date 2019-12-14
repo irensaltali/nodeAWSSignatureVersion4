@@ -1,0 +1,1 @@
+# nodeAWSSignatureVersion4
