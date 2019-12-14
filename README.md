@@ -1,1 +1,1 @@
-# nodeAWSSignatureVersion4
+# nodejs AWS Signature Version 4
